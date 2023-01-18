@@ -89,6 +89,8 @@ all identifiers use ASCII-only identifiers and use English words
 
 ## Documentation guidelines
 
+Based on [PEPE257](https://peps.python.org/pep-0257/).
+
 *TODO*
 
 ## Docker packaging guildelines
