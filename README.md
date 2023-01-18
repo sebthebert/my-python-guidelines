@@ -4,9 +4,15 @@
 
 Based on [PEP8](https://peps.python.org/pep-0008/).
 
+### pylint
+
+Use [pylint](https://pylint.pycqa.org/en/latest/) to validate these style guidelines.
+
+*TODO*
+
 ### Code Lay-out
 
-* **4 spaces indentation***
+* **4 spaces indentation**
 
 ```python
 # Aligned with opening delimiter.
